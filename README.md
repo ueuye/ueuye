@@ -6,6 +6,7 @@
 <h3 align=center> 📚 Tech Stack 📚 </h3>
 
 <div align=center>
+	
 ✨ Platforms & Languages ✨
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,14 +24,17 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+
 ### 🛠 Tools 🛠
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div>
 
+</div>
+<br>
 <div align=center>
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ueuye&layout=donut&hide=c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ueuye&layout=compact&hide=c)
+
 </div>
